@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MT_MainMenu_Garage_Floor
+  m_Shader: {fileID: 2, guid: 0000000000000000f000000000000000, type: 0}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 0d9d484495e7b1643be9348a34956260, type: 3}
+        m_Scale: {x: 60, y: 60}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FloorDecals:
+        m_Texture: {fileID: 2800000, guid: 0c3ed27619d36374fb50d1e4fedeca94, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FloorMask:
+        m_Texture: {fileID: 2800000, guid: a7da737d3127de046aab90d4c4f54c0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ef5c99800c91d4041a3a61d26f092ebb, type: 3}
+        m_Scale: {x: 60, y: 60}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: a29aaeda1a8d2394d8443d8d9aba254f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Bumpiness: 1
+    - _Bumpinness: 0.682
+    - _Cutoff: 0.5
+    - _DecalInt: 1.027
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Exposure: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _LightmapInt: 1.1
+    - _Metallic: 0
+    - _MetallicIumPuddle: -0.36
+    - _MetallicPuddle: 0.84
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _PuddleAmount: 1
+    - _PuddleBorder: 3.2
+    - _ReflectionIntensity: 0
+    - _ShadowAmbientInt: 0
+    - _ShadowCutt: 0.222
+    - _ShadowInt: 0.723
+    - _Shinnes: 4
+    - _ShinnesBorder: 6.9
+    - _Smoothness: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecGloss: 0.3
+    - _SpecInt: 6.16
+    - _SpecIntPuddle: 0.27
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _UnderWater: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _BColor: {r: 1, g: 0.6, b: 0, a: 1}
+    - _Color: {r: 0.8867924, g: 0.8085326, b: 0.68182623, a: 1}
+    - _DecalColorA: {r: 0.4433962, g: 0.2916619, b: 0.08156818, a: 1}
+    - _DecalColorB: {r: 0.2169811, g: 0.2169811, b: 0.2169811, a: 1}
+    - _DecalColorG: {r: 0.7075472, g: 0.7075472, b: 0.7075472, a: 1}
+    - _DecalColorR: {r: 0.1489459, g: 0.1475169, b: 0.1603774, a: 1}
+    - _DecalScaleOffsetA: {r: 20, g: 20, b: 20, a: 1.515}
+    - _DecalScaleOffsetB: {r: 50, g: 50, b: 50, a: 0}
+    - _DecalScaleOffsetG: {r: 50, g: 50, b: 50, a: 1.43}
+    - _DecalScaleOffsetR: {r: 25.66, g: 25.1, b: 25.1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GColor: {r: 0.263, g: 0.2567263, b: 0.246431, a: 1}
+    - _LightColor: {r: 0.9984596, g: 1, b: 0.8915094, a: 1}
+    - _LightDirection: {r: -0.04555418, g: 0.6701865, b: 0.7407938, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RColor: {r: 0.4339623, g: 0.4339623, b: 0.4339623, a: 1}
+    - _ShadowColor: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 1}
+  m_BuildTextureStacks: []

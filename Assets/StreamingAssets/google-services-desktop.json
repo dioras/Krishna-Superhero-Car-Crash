@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "82673049099",
+    "project_id": "superhero-car-crash-8fa4c",
+    "storage_bucket": "superhero-car-crash-8fa4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82673049099:android:df4cd39fe3fc5a2e07310e",
+        "android_client_info": {
+          "package_name": "com.superherogames.SuperheroCarCrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82673049099-jgd3lqmsu9decrvulg7tkav7bu35uk9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckHm6oZL3PeRcl2sndMm2TeTf_J_ifwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82673049099-jgd3lqmsu9decrvulg7tkav7bu35uk9f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82673049099-u3bu75vbam11sart0fo1er8vs3rq6rjb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.superherogames.SuperheroCarCrash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

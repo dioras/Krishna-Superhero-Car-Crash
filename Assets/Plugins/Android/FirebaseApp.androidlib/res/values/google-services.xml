@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">82673049099</string>
+  <string name="google_storage_bucket" translatable="false">superhero-car-crash-8fa4c.appspot.com</string>
+  <string name="project_id" translatable="false">superhero-car-crash-8fa4c</string>
+  <string name="google_api_key" translatable="false">AIzaSyAckHm6oZL3PeRcl2sndMm2TeTf_J_ifwg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAckHm6oZL3PeRcl2sndMm2TeTf_J_ifwg</string>
+  <string name="google_app_id" translatable="false">1:82673049099:android:df4cd39fe3fc5a2e07310e</string>
+  <string name="default_web_client_id" translatable="false">82673049099-jgd3lqmsu9decrvulg7tkav7bu35uk9f.apps.googleusercontent.com</string>
+</resources>
